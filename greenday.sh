@@ -1,4 +1,4 @@
-#This is bash scripting
+#!/bin/bash
 
 # Prompt the user for input
 echo "Please enter your name:"
